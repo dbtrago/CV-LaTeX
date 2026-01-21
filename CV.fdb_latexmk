@@ -1,16 +1,16 @@
 # Fdb version 4
-["pdflatex"] 1769029285.1352 "c:/Users/Daniel Buitrago/Programming/Personal/portafolio-TeX/main.tex" "main.pdf" "main" 1769029285.50779 0
+["pdflatex"] 1769029456.4737 "c:/Users/Daniel Buitrago/Programming/Personal/portafolio-TeX/CV.tex" "CV.pdf" "CV" 1769029456.88799 0
   "C:/Users/Daniel Buitrago/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1769028826 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Daniel Buitrago/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1769029138 13338363 72fa035aa6a5491c7beccb75f6873c82 ""
   "C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1761900684 20144 b966087dda3b194755eb460d32e2ef75 ""
   "C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1761202581 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
-  "c:/Users/Daniel Buitrago/Programming/Personal/portafolio-TeX/main.tex" 1769029284 103 e4e78516782bb6ad6d63aa08f8830597 ""
-  "main.aux" 1769029285 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "main.tex" 1769029284 103 e4e78516782bb6ad6d63aa08f8830597 ""
+  "CV.aux" 1769029456 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "CV.tex" 1769029455 120 fa313b7b005d184613f5fcb64cd0328e ""
+  "c:/Users/Daniel Buitrago/Programming/Personal/portafolio-TeX/CV.tex" 1769029455 120 fa313b7b005d184613f5fcb64cd0328e ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.pdf"
+  "CV.aux"
+  "CV.log"
+  "CV.pdf"
   (rewritten before read)

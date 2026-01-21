@@ -1,7 +1,7 @@
 PWD c:\Users\Daniel Buitrago\Programming\Personal\portafolio-TeX
 INPUT C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Daniel Buitrago\Programming\Personal\portafolio-TeX\main.tex
-OUTPUT main.log
+INPUT c:\Users\Daniel Buitrago\Programming\Personal\portafolio-TeX\CV.tex
+OUTPUT CV.log
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -9,12 +9,12 @@ INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\base\size
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
-OUTPUT main.aux
-OUTPUT main.pdf
+INPUT .\CV.aux
+INPUT .\CV.aux
+INPUT CV.aux
+OUTPUT CV.aux
+OUTPUT CV.pdf
 INPUT C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT main.aux
+INPUT CV.aux
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
