@@ -1,8 +1,123 @@
-\documentclass{article}
+\documentclass[11pt,a4paper]{article}
+% PAQUETES
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[left=1.2cm,top=1.2cm,right=1.2cm,bottom=1.2cm]{geometry} % Márgenes más razonables
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{parskip}
+\usepackage{enumitem}
 
-\title{}
-\author{}
+% ESTILOS
+\definecolor{maincolor}{HTML}{333333}
+\titleformat{\section}
+  {\Large\bfseries\color{maincolor}}
+  {}
+  {0pt}
+  {}
+  [\titlerule]
+  
+\hypersetup{
+  colorlinks=true,
+  urlcolor=blue
+}
 
+\setstretch{1.15}
+\pagestyle{empty}
+\setlist{leftmargin=*, nosep} % Control de listas
+
+% DOCUMENTO
 \begin{document}
-Aprendiendo LaTeX para hacer mi CV
+
+% ENCABEZADO
+\noindent
+\begin{minipage}[t]{0.25\textwidth}
+\includegraphics[width=\linewidth, keepaspectratio]{foto.jpg}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.72\textwidth}
+    \vspace{-4cm}
+\vspace{-\baselineskip} % Ajuste fino
+{\Huge \textbf{DANIEL BUITRAGO}}\\[6pt]
+{\large \textsc{Ingeniero en Sistemas y Computación}}\\
+Armenia, Quindío -- Colombia\\[8pt]
+\textbf{Tel:} +57 312 873 9355\\
+\textbf{Email:} \href{mailto:danielbuitrago1777@gmail.com}{danielbuitrago1777@gmail.com}\\
+\textbf{Web:} \href{https://danielbuitrago.netlify.app}{danielbuitrago.netlify.app}
+\end{minipage}
+
+\vspace{0.2cm}
+
+% CONTENIDO PRINCIPAL
+\noindent
+\begin{minipage}[t]{0.25\textwidth}
+\raggedright
+
+% EDUCACIÓN
+\section*{Educación}
+\textbf{Ingeniería en Sistemas y Computación}\\
+Universidad del Quindío, Armenia\\
+2026\\[6pt]
+
+\textbf{Diplomado en gestión de la seguridad de la información}\\
+Universidad del Quindío, Armenia\\
+2025\\[6pt]
+
+\textbf{Técnico en Diseño de Software}\\
+SENA, Montenegro\\
+2019\\[12pt]
+
+% IDIOMAS
+\section*{Idiomas}
+\textbf{Español}: Nativo\\[4pt]
+\textbf{Inglés}: B1
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.72\textwidth}
+\raggedright
+
+% SOBRE MÍ
+\section*{Sobre mí}
+Hola, soy Daniel, un ingeniero de Sistemas y Computación en proceso, con experiencia en diseño gráfico, diseño UX/UI y desarrollo web.
+
+Desde que me gradué con un técnico en diseño de software, el diseño y la tecnología han sido dos de mis grandes pasiones, por lo que el desarrollo web es una de las áreas que más disfruto.
+
+Además, me gusta la música, tocar la guitarra, la tecnología y conocer personas nuevas. Me considero una persona disciplinada y comprometida con mis proyectos, con gran capacidad de aprendizaje.
+
+% EXPERIENCIA LABORAL
+\section*{Experiencia Laboral}
+\begin{itemize}
+\item \textbf{Auxiliar de Trabajo de Grado} \hfill Feb. 2024 -- Actualidad\\
+\textit{Universidad del Quindío, Armenia}\\
+Trabajo como auxiliar del programa, realizando tareas administrativas y técnicas, incluyendo apoyo en documentación institucional y asesorías cortas en algunas materias.
+
+\item \textbf{Capítulo Estudiantil ACOFI} \hfill Feb. 2023 -- Actualidad\\
+\textit{ACOFI, Armenia}\\
+Miembro del capítulo estudiantil nacional de la Asociación Colombiana de Facultades de Ingeniería. He participado en actividades sociales, comunitarias y congresos internacionales como el EIEI ACOFI 2024, destacándome como ponente.
+
+\item \textbf{Bartender y otros} \hfill Jun. 2022 -- Actualidad\\
+\textit{Hotel Arrayanes del Quindío, Montenegro}\\
+Trabajo de manera intermitente los fines de semana como bartender. También he desempeñado funciones en recepción y restaurante, fortaleciendo habilidades sociales, comunicativas y de trabajo en equipo.
+
+\item \textbf{Diseñador Gráfico} \hfill Mar. 2022 -- Jun. 2022\\
+\textit{Imagen 3D, Montenegro}\\
+Diseño de piezas gráficas y operación de maquinaria de impresión como plotter e impresoras industriales.
+\end{itemize}
+
+% HABILIDADES
+\section*{Habilidades}
+ Corel Draw
+ Suite Adobe
+ ReactJS
+ Angular
+ Astro
+ Java
+ Python
+
+\end{minipage}
+
 \end{document}
