@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1769035049.69006 "c:/Users/Daniel Buitrago/Programming/Personal/portafolio-TeX/CV.tex" "CV.pdf" "CV" 1769035050.73129 0
+["pdflatex"] 1769036463.27974 "c:/Users/Daniel Buitrago/Programming/Personal/portafolio-TeX/CV.tex" "CV.pdf" "CV" 1769036464.30646 0
   "C:/Users/Daniel Buitrago/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1769034208 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Daniel Buitrago/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk" 1769029768 28976 041b88b31aace07d33ad4b0b3c6fd2ba ""
   "C:/Users/Daniel Buitrago/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1769029766 40136 d6242e8cbbf3c7f366611a2c4a02b886 ""
@@ -73,10 +73,10 @@
   "C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1736608268 48766 87a17a4ef312a39cd43896e34a679a56 ""
   "C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "CV.aux" 1769035050 362 d67cc7faca54b5c0739f2affa32082b7 "pdflatex"
-  "CV.out" 1769035050 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV.tex" 1769035048 3939 f011482be0da5bd8014d0dbe02b1b956 ""
-  "c:/Users/Daniel Buitrago/Programming/Personal/portafolio-TeX/CV.tex" 1769035048 3939 f011482be0da5bd8014d0dbe02b1b956 ""
+  "CV.aux" 1769036464 362 d67cc7faca54b5c0739f2affa32082b7 "pdflatex"
+  "CV.out" 1769036463 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV.tex" 1769036462 4136 9652fc1cfd0e216fb143cba9d4ea13fc ""
+  "c:/Users/Daniel Buitrago/Programming/Personal/portafolio-TeX/CV.tex" 1769036462 4136 9652fc1cfd0e216fb143cba9d4ea13fc ""
   "foto.jpg" 1769032896 46126 001e80efe6c5f57c76bd3633bb66df02 ""
   (generated)
   "CV.aux"
