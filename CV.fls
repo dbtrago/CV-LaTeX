@@ -114,8 +114,20 @@ INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\parskip\p
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5-generic-helper.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5-generic-helper.sty
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5-mapping.def
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\fontawesome5-mapping.def
 INPUT .\CV.aux
 INPUT .\CV.aux
 INPUT CV.aux
@@ -148,11 +160,21 @@ INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\eccc1200.tfm
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free2solid.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1095.tfm
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free1solid.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1095.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free2.enc
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
 INPUT CV.aux
 INPUT .\CV.out
 INPUT .\CV.out
@@ -168,3 +190,5 @@ INPUT C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\
 INPUT C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk
 INPUT C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
 INPUT C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Free-Solid.pfb
+INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Free-Solid.pfb
