@@ -149,13 +149,13 @@ INPUT .\CV.out
 INPUT .\CV.out
 OUTPUT CV.out
 OUTPUT CV.pdf
-INPUT .\foto.jpg
-INPUT .\foto.jpg
-INPUT .\foto.jpg
-INPUT .\foto.jpg
-INPUT .\foto.jpg
-INPUT .\foto.jpg
-INPUT .\foto.jpg
+INPUT .\foto4.jpg
+INPUT .\foto4.jpg
+INPUT .\foto4.jpg
+INPUT .\foto4.jpg
+INPUT .\foto4.jpg
+INPUT .\foto4.jpg
+INPUT .\foto4.jpg
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2488.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
 INPUT C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm

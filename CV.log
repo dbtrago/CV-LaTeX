@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.21)  22 JAN 2026 13:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.21)  4 APR 2026 20:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -346,17 +346,17 @@ Package hyperref Info: Link coloring ON on input line 35.
 
 Couldn't patch \ttl@straight@ii
 Couldn't patch \ttl@straight@ii
-<foto.jpg, id=3, 397.485pt x 397.485pt>
-File: foto.jpg Graphic file (type jpg)
-<use foto.jpg>
-Package pdftex.def Info: foto.jpg  used on input line 40.
-(pdftex.def)             Requested size: 132.30536pt x 132.30463pt.
+<foto4.jpg, id=3, 306.9066pt x 306.9066pt>
+File: foto4.jpg Graphic file (type jpg)
+<use foto4.jpg>
+Package pdftex.def Info: foto4.jpg  used on input line 40.
+(pdftex.def)             Requested size: 132.30536pt x 132.30911pt.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 49.
 (C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 51.
  (C:\Users\Daniel Buitrago\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd) [1
 
-{C:/Users/Daniel Buitrago/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc} <./foto.jpg>] (CV.aux
+{C:/Users/Daniel Buitrago/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc} <./foto4.jpg>] (CV.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -369,14 +369,14 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  14884 strings out of 467871
- 257136 string characters out of 5413500
+ 257143 string characters out of 5413500
  685056 words of memory out of 5000000
  43612 multiletter control sequences out of 15000+600000
  635406 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,1194b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\Daniel Buitrago\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/Daniel Buitrago/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb>
-Output written on CV.pdf (1 page, 137368 bytes).
+Output written on CV.pdf (1 page, 640480 bytes).
 PDF statistics:
  259 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
